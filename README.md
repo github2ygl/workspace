@@ -5,3 +5,6 @@
 - git init
 - git add
 - git commit
+
+## 실험적인 기능 (experiment 브랜치)
+- 이 내용은 experiment 브랜치에서만 볼 수 있어요
