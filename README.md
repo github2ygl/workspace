@@ -8,3 +8,7 @@
 
 ## 실험적인 기능 (experiment 브랜치)
 - 이 내용은 experiment 브랜치에서만 볼 수 있어요
+
+## Github 연동 완료!
+- git remote add
+- git push
